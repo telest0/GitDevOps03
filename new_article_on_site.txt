@@ -1,0 +1,3 @@
+Some article in the journal
+Some article in the journal
+Here is the second commit into the file
