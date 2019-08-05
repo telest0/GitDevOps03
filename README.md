@@ -8,3 +8,8 @@ git checkout master
 cat .git/HEAD
 cat .git/logs/HEAD
 git log --oneline --decorate --graph --all
+git checkout master
+git merge hostfix
+git branch -v
+git branch -d issu53
+git branch --no-merged
