@@ -13,3 +13,4 @@ git merge hostfix
 git branch -v
 git branch -d issu53
 git branch --no-merged
+git config --global credential.helper cache
